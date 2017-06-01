@@ -1,0 +1,8 @@
+.wrap {
+  padding: 20px;
+  background-color: lightgrey;
+}
+
+#second, #third {
+  margin-top: 10px;
+}
